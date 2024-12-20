@@ -1,0 +1,42 @@
+*******************************************************************
+* GCTA (Genome-wide Complex Trait Analysis)
+* Version v1.94.1 Mac
+* (C) 2010-present, Yang Lab, Westlake University
+* Please report bugs to Jian Yang jian.yang@westlake.edu.cn
+* MIT License
+*******************************************************************
+Analysis started at 15:42:37 PDT on Thu Oct 31 2024.
+Hostname: Kims-MBP.home
+
+Accepted options:
+--bfile plink_concord/reportTB_filter_imp_maf5_concord
+--autosome
+--make-grm-bin
+--out heritability/reportTB_filter_imp_maf5_concord
+--thread-num 10
+
+Note: the program will be running on 10 threads.
+
+Reading PLINK FAM file from [plink_concord/reportTB_filter_imp_maf5_concord.fam].
+2754 individuals to be included from [plink_concord/reportTB_filter_imp_maf5_concord.fam].
+Reading PLINK BIM file from [plink_concord/reportTB_filter_imp_maf5_concord.bim].
+2527008 SNPs to be included from [plink_concord/reportTB_filter_imp_maf5_concord.bim].
+2527008 SNPs from chromosome 1 to chromosome 22 are included in the analysis.
+Reading PLINK BED file from [plink_concord/reportTB_filter_imp_maf5_concord.bed] in SNP-major format ...
+Genotype data for 2754 individuals and 2527008 SNPs to be included from [plink_concord/reportTB_filter_imp_maf5_concord.bed].
+Calculating allele frequencies ...
+Recoding genotypes (individual major mode) ...
+
+Calculating the genetic relationship matrix (GRM) ... (Note: default speed-optimized mode, may use huge RAM)
+
+Summary of the GRM:
+Mean of diagonals = 1.01767
+Variance of diagonals = 0.0266436
+Mean of off-diagonals = -0.000369676
+Variance of off-diagonals = 0.00128047
+GRM of 2754 individuals has been saved in the file [heritability/reportTB_filter_imp_maf5_concord.grm.bin] (in binary format).
+Number of SNPs to calculate the genetic relationship between each pair of individuals has been saved in the file [heritability/reportTB_filter_imp_maf5_concord.grm.N.bin] (in binary format).
+IDs for the GRM file [heritability/reportTB_filter_imp_maf5_concord.grm.bin] have been saved in the file [heritability/reportTB_filter_imp_maf5_concord.grm.id].
+
+Analysis finished at 18:41:35 PDT on Thu Oct 31 2024
+Overall computational time: 2 hours 58 minutes 57 sec.

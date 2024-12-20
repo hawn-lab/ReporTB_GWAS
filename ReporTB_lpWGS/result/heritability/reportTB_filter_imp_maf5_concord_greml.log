@@ -1,0 +1,85 @@
+*******************************************************************
+* GCTA (Genome-wide Complex Trait Analysis)
+* Version v1.94.1 Mac
+* (C) 2010-present, Yang Lab, Westlake University
+* Please report bugs to Jian Yang jian.yang@westlake.edu.cn
+* MIT License
+*******************************************************************
+Analysis started at 08:45:35 PDT on Fri Nov 01 2024.
+Hostname: Kims-MBP.home
+
+Accepted options:
+--grm heritability/reportTB_filter_imp_maf5_concord_0.05
+--pheno heritability/TB.phen
+--reml
+--thread-num 10
+--covar heritability/covar_cat.txt
+--qcovar heritability/covar_cont.txt
+--prevalence 0.0005707
+--out heritability/reportTB_filter_imp_maf5_concord_greml
+
+Note: the program will be running on 10 threads.
+
+Reading IDs of the GRM from [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.id].
+1025 IDs are read from [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.id].
+Reading the GRM from [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.bin].
+GRM for 1025 individuals are included from [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.bin].
+Reading phenotypes from [heritability/TB.phen].
+Non-missing phenotypes of 2754 individuals are included from [heritability/TB.phen].
+Reading quantitative covariate(s) from [heritability/covar_cont.txt].
+3 quantitative covariate(s) of 2754 individuals are included from [heritability/covar_cont.txt].
+Reading discrete covariate(s) from [heritability/covar_cat.txt].
+4 discrete covariate(s) of 2747 individuals are included from [heritability/covar_cat.txt].
+Assuming a disease phenotype for a case-control study: 426 cases and 594 controls 
+3 quantitative variable(s) included as covariate(s).
+4 discrete variable(s) included as covariate(s).
+1020 individuals are in common in these files.
+
+Performing  REML analysis ... (Note: may take hours depending on sample size).
+1020 observations, 8 fixed effect(s), and 2 variance component(s)(including residual variance).
+Calculating prior values of variance components by EM-REML ...
+Updated prior values:  0.11178 0.111352
+logL: 285.175
+Running AI-REML algorithm ...
+Iter.	logL	V(G)	V(e)	
+1	290.95	0.10630	0.10956	
+2	292.24	0.10292	0.10836	
+3	292.80	0.10076	0.10754	
+4	293.05	0.09629	0.10580	
+5	293.27	0.09642	0.10585	
+6	293.27	0.09642	0.10584	
+7	293.27	0.09642	0.10584	
+Log-likelihood ratio converged.
+
+Calculating the logLikelihood for the reduced model ...
+(variance component 1 is dropped from the model)
+Calculating prior values of variance components by EM-REML ...
+Updated prior values: 0.19998
+logL: 281.85032
+Running AI-REML algorithm ...
+Iter.	logL	V(e)	
+1	291.18	0.19987	
+2	291.19	0.19980	
+3	291.19	0.19964	
+4	291.19	0.19964	
+5	291.19	0.19964	
+Log-likelihood ratio converged.
+
+Summary result of REML analysis:
+Source	Variance	SE
+V(G)	0.096425	0.049312
+V(e)	0.105845	0.047190
+Vp	0.202269	0.009250
+V(G)/Vp	0.476714	0.237754
+The estimate of variance explained on the observed scale is transformed to that on the underlying liability scale:
+(Proportion of cases in the sample = 0.417647; User-specified disease prevalence = 0.000571)
+V(G)/Vp_L	0.158459	0.079029
+
+Sampling variance/covariance of the estimates of variance components:
+2.431655e-03	-2.286485e-03	
+-2.286485e-03	2.226882e-03	
+
+Summary result of REML analysis has been saved in the file [heritability/reportTB_filter_imp_maf5_concord_greml.hsq].
+
+Analysis finished at 08:45:35 PDT on Fri Nov 01 2024
+Overall computational time: 0.66 sec.

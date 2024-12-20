@@ -1,0 +1,32 @@
+*******************************************************************
+* GCTA (Genome-wide Complex Trait Analysis)
+* Version v1.94.1 Mac
+* (C) 2010-present, Yang Lab, Westlake University
+* Please report bugs to Jian Yang jian.yang@westlake.edu.cn
+* MIT License
+*******************************************************************
+Analysis started at 08:25:28 PDT on Fri Nov 01 2024.
+Hostname: Kims-MBP.home
+
+Accepted options:
+--grm heritability/reportTB_filter_imp_maf5_concord
+--grm-cutoff0.05
+--make-grm-bin
+--out heritability/reportTB_filter_imp_maf5_concord_0.05
+--thread-num 10
+
+Note: the program will be running on 10 threads.
+
+Reading IDs of the GRM from [heritability/reportTB_filter_imp_maf5_concord.grm.id].
+2754 IDs are read from [heritability/reportTB_filter_imp_maf5_concord.grm.id].
+Reading the GRM from [heritability/reportTB_filter_imp_maf5_concord.grm.bin].
+Reading the number of SNPs for the GRM from [heritability/reportTB_filter_imp_maf5_concord.grm.N.bin].
+GRM for 2754 individuals are included from [heritability/reportTB_filter_imp_maf5_concord.grm.bin].
+Pruning the GRM with a cutoff of 0.05 ...
+After pruning the GRM, there are 1025 individuals (1729 individuals removed).
+GRM of 1025 individuals has been saved in the file [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.bin] (in binary format).
+Number of SNPs to calculate the genetic relationship between each pair of individuals has been saved in the file [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.N.bin] (in binary format).
+IDs for the GRM file [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.bin] have been saved in the file [heritability/reportTB_filter_imp_maf5_concord_0.05.grm.id].
+
+Analysis finished at 08:25:29 PDT on Fri Nov 01 2024
+Overall computational time: 0.34 sec.

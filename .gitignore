@@ -60,7 +60,9 @@ ReporTB_lpWGS/result/gds/*
 ReporTB_lpWGS/result/heritability/*bin
 ReporTB_lpWGS/result/heritability/*id
 ReporTB_lpWGS/result/heritability/*txt
+ReporTB_lpWGS/result/heritability/*phen
 ReporTB_lpWGS/result/LD/*
+ReporTB_lpWGS/result/logs/*
 ReporTB_lpWGS/result/magma/*
 ReporTB_lpWGS/result/other/*
 ReporTB_lpWGS/result/plink/*
