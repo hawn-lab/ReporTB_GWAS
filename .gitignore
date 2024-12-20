@@ -47,3 +47,28 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# MAC
+*.DS_Store
+
+# Data
+metadata/*
+ReporTB_hpWGS/result/qc/*
+ReporTB_hpWGS/result/8_gds/*
+ReporTB_lpWGS/result/1000genomes/*
+ReporTB_lpWGS/result/gds/*
+ReporTB_lpWGS/result/magma/*
+ReporTB_lpWGS/result/other/*
+ReporTB_lpWGS/result/plink/*
+ReporTB_lpWGS/result/plink_concord/*
+ReporTB_lpWGS/result/vcf/*
+ReporTB_lpWGS/result/kinship/*.csv
+ReporTB_lpWGS/result/kinship/*RData    
+ReporTB_sceQTL/data_raw/*
+ReporTB_sceQTL/data_clean/*
+ReporTB_sceQTL/result/gds/*
+ReporTB_sceQTL/result/kinship/*.csv
+ReporTB_sceQTL/result/kinship/*RData
+ReporTB_sceQTL/result/plink/*
+ReporTB_sceQTL/result/sceQTL/sceQTL_df.RData
+ReporTB_sceQTL/result/sceQTL/sceQTL_lists.RData
