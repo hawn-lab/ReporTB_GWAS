@@ -57,6 +57,10 @@ ReporTB_hpWGS/result/qc/*
 ReporTB_hpWGS/result/8_gds/*
 ReporTB_lpWGS/result/1000genomes/*
 ReporTB_lpWGS/result/gds/*
+ReporTB_lpWGS/result/heritability/*bin
+ReporTB_lpWGS/result/heritability/*id
+ReporTB_lpWGS/result/heritability/*txt
+ReporTB_lpWGS/result/LD/*
 ReporTB_lpWGS/result/magma/*
 ReporTB_lpWGS/result/other/*
 ReporTB_lpWGS/result/plink/*
@@ -72,3 +76,4 @@ ReporTB_sceQTL/result/kinship/*RData
 ReporTB_sceQTL/result/plink/*
 ReporTB_sceQTL/result/sceQTL/sceQTL_df.RData
 ReporTB_sceQTL/result/sceQTL/sceQTL_lists.RData
+publication/temp/*
