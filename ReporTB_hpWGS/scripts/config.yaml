@@ -1,0 +1,225 @@
+SampleList:
+   7212-BA-0057_S1: 
+    sample: '7212-BA-0057_S1'
+    R1: 'data/7212-BA-0057_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0057_S1_L005_R2_001.fastq.gz'
+   7212-BA-0081_S1: 
+    sample: '7212-BA-0081_S1'
+    R1: 'data/7212-BA-0081_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0081_S1_L005_R2_001.fastq.gz'
+   7212-BA-0092_S1: 
+    sample: '7212-BA-0092_S1'
+    R1: 'data/7212-BA-0092_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0092_S1_L005_R2_001.fastq.gz'
+   7212-BA-0145_S1: 
+    sample: '7212-BA-0145_S1'
+    R1: 'data/7212-BA-0145_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0145_S1_L001_R2_001.fastq.gz'
+   7212-BA-0172_S1: 
+    sample: '7212-BA-0172_S1'
+    R1: 'data/7212-BA-0172_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0172_S1_L005_R2_001.fastq.gz'
+   7212-BA-0192_S1: 
+    sample: '7212-BA-0192_S1'
+    R1: 'data/7212-BA-0192_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0192_S1_L001_R2_001.fastq.gz'
+   7212-BA-0205_S1: 
+    sample: '7212-BA-0205_S1'
+    R1: 'data/7212-BA-0205_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0205_S1_L005_R2_001.fastq.gz'
+   7212-BA-0211_S1: 
+    sample: '7212-BA-0211_S1'
+    R1: 'data/7212-BA-0211_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0211_S1_L005_R2_001.fastq.gz'
+   7212-BA-0240_S1: 
+    sample: '7212-BA-0240_S1'
+    R1: 'data/7212-BA-0240_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0240_S1_L005_R2_001.fastq.gz'
+   7212-BA-0377_S1: 
+    sample: '7212-BA-0377_S1'
+    R1: 'data/7212-BA-0377_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0377_S1_L005_R2_001.fastq.gz'
+   7212-BA-0413_S1: 
+    sample: '7212-BA-0413_S1'
+    R1: 'data/7212-BA-0413_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0413_S1_L005_R2_001.fastq.gz'
+   7212-BA-0433_S1: 
+    sample: '7212-BA-0433_S1'
+    R1: 'data/7212-BA-0433_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0433_S1_L005_R2_001.fastq.gz'
+   7212-BA-0487_S1: 
+    sample: '7212-BA-0487_S1'
+    R1: 'data/7212-BA-0487_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0487_S1_L005_R2_001.fastq.gz'
+   7212-BA-0567_S1: 
+    sample: '7212-BA-0567_S1'
+    R1: 'data/7212-BA-0567_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0567_S1_L001_R2_001.fastq.gz'
+   7212-BA-0593_S1: 
+    sample: '7212-BA-0593_S1'
+    R1: 'data/7212-BA-0593_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0593_S1_L001_R2_001.fastq.gz'
+   7212-BA-0628_S1: 
+    sample: '7212-BA-0628_S1'
+    R1: 'data/7212-BA-0628_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0628_S1_L001_R2_001.fastq.gz'
+   7212-BA-0641_S1: 
+    sample: '7212-BA-0641_S1'
+    R1: 'data/7212-BA-0641_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0641_S1_L001_R2_001.fastq.gz'
+   7212-BA-0682_S1: 
+    sample: '7212-BA-0682_S1'
+    R1: 'data/7212-BA-0682_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0682_S1_L005_R2_001.fastq.gz'
+   7212-BA-0712_S1: 
+    sample: '7212-BA-0712_S1'
+    R1: 'data/7212-BA-0712_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0712_S1_L005_R2_001.fastq.gz'
+   7212-BA-0789_S1: 
+    sample: '7212-BA-0789_S1'
+    R1: 'data/7212-BA-0789_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0789_S1_L005_R2_001.fastq.gz'
+   7212-BA-0811_S1: 
+    sample: '7212-BA-0811_S1'
+    R1: 'data/7212-BA-0811_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0811_S1_L005_R2_001.fastq.gz'
+   7212-BA-0863_S1: 
+    sample: '7212-BA-0863_S1'
+    R1: 'data/7212-BA-0863_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0863_S1_L001_R2_001.fastq.gz'
+   7212-BA-0927_S1: 
+    sample: '7212-BA-0927_S1'
+    R1: 'data/7212-BA-0927_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0927_S1_L005_R2_001.fastq.gz'
+   7212-BA-0969_S1: 
+    sample: '7212-BA-0969_S1'
+    R1: 'data/7212-BA-0969_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0969_S1_L005_R2_001.fastq.gz'
+   7212-BA-0996_S1: 
+    sample: '7212-BA-0996_S1'
+    R1: 'data/7212-BA-0996_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-0996_S1_L005_R2_001.fastq.gz'
+   7212-BA-1023_S1: 
+    sample: '7212-BA-1023_S1'
+    R1: 'data/7212-BA-1023_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1023_S1_L005_R2_001.fastq.gz'
+   7212-BA-1030_S1: 
+    sample: '7212-BA-1030_S1'
+    R1: 'data/7212-BA-1030_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1030_S1_L005_R2_001.fastq.gz'
+   7212-BA-1044_S1: 
+    sample: '7212-BA-1044_S1'
+    R1: 'data/7212-BA-1044_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1044_S1_L005_R2_001.fastq.gz'
+   7212-BA-1048_S1: 
+    sample: '7212-BA-1048_S1'
+    R1: 'data/7212-BA-1048_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1048_S1_L005_R2_001.fastq.gz'
+   7212-BA-1086_S1: 
+    sample: '7212-BA-1086_S1'
+    R1: 'data/7212-BA-1086_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1086_S1_L005_R2_001.fastq.gz'
+   7212-BA-1088_S1: 
+    sample: '7212-BA-1088_S1'
+    R1: 'data/7212-BA-1088_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1088_S1_L005_R2_001.fastq.gz'
+   7212-BA-1151_S1: 
+    sample: '7212-BA-1151_S1'
+    R1: 'data/7212-BA-1151_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1151_S1_L005_R2_001.fastq.gz'
+   7212-BA-1152_S1: 
+    sample: '7212-BA-1152_S1'
+    R1: 'data/7212-BA-1152_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1152_S1_L005_R2_001.fastq.gz'
+   7212-BA-1347_S1: 
+    sample: '7212-BA-1347_S1'
+    R1: 'data/7212-BA-1347_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1347_S1_L005_R2_001.fastq.gz'
+   7212-BA-1455_S1: 
+    sample: '7212-BA-1455_S1'
+    R1: 'data/7212-BA-1455_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1455_S1_L005_R2_001.fastq.gz'
+   7212-BA-1549_S1: 
+    sample: '7212-BA-1549_S1'
+    R1: 'data/7212-BA-1549_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1549_S1_L005_R2_001.fastq.gz'
+   7212-BA-1593_S1: 
+    sample: '7212-BA-1593_S1'
+    R1: 'data/7212-BA-1593_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1593_S1_L005_R2_001.fastq.gz'
+   7212-BA-1667_S1: 
+    sample: '7212-BA-1667_S1'
+    R1: 'data/7212-BA-1667_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1667_S1_L005_R2_001.fastq.gz'
+   7212-BA-1679_S1: 
+    sample: '7212-BA-1679_S1'
+    R1: 'data/7212-BA-1679_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1679_S1_L005_R2_001.fastq.gz'
+   7212-BA-1711_S1: 
+    sample: '7212-BA-1711_S1'
+    R1: 'data/7212-BA-1711_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1711_S1_L005_R2_001.fastq.gz'
+   7212-BA-1728_S1: 
+    sample: '7212-BA-1728_S1'
+    R1: 'data/7212-BA-1728_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1728_S1_L005_R2_001.fastq.gz'
+   7212-BA-1897_S1: 
+    sample: '7212-BA-1897_S1'
+    R1: 'data/7212-BA-1897_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-1897_S1_L001_R2_001.fastq.gz'
+   7212-BA-2118_S1: 
+    sample: '7212-BA-2118_S1'
+    R1: 'data/7212-BA-2118_S1_L001_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2118_S1_L001_R2_001.fastq.gz'
+   7212-BA-2456_S1: 
+    sample: '7212-BA-2456_S1'
+    R1: 'data/7212-BA-2456_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2456_S1_L005_R2_001.fastq.gz'
+   7212-BA-2514_S1: 
+    sample: '7212-BA-2514_S1'
+    R1: 'data/7212-BA-2514_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2514_S1_L005_R2_001.fastq.gz'
+   7212-BA-2516_S1: 
+    sample: '7212-BA-2516_S1'
+    R1: 'data/7212-BA-2516_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2516_S1_L005_R2_001.fastq.gz'
+   7212-BA-2609_S1: 
+    sample: '7212-BA-2609_S1'
+    R1: 'data/7212-BA-2609_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2609_S1_L005_R2_001.fastq.gz'
+   7212-BA-2721_S1: 
+    sample: '7212-BA-2721_S1'
+    R1: 'data/7212-BA-2721_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2721_S1_L005_R2_001.fastq.gz'
+   7212-BA-2765_S1: 
+    sample: '7212-BA-2765_S1'
+    R1: 'data/7212-BA-2765_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2765_S1_L005_R2_001.fastq.gz'
+   7212-BA-2784_S1: 
+    sample: '7212-BA-2784_S1'
+    R1: 'data/7212-BA-2784_S1_L005_R1_001.fastq.gz'
+    R2: 'data/7212-BA-2784_S1_L005_R2_001.fastq.gz'
+
+
+# Adapter removal
+## Base pairs to trim from 5' end
+trim5p: 10
+## Removal of 3' adapter sequences? Default are Illumina Universal adapters
+trimAdapt: True
+adapter1: AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+adapter2: AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+# Genome alignment
+
+## Species the format 'Homo_sapiens.GRCh38' or 'Mus_musculus.GRCm39'
+genome: 'Homo_sapiens.GRCh38'
+## Genome release number. Current as of 2022.04.14
+release: '112'
+
+# Alignment metrics
+## Run Picard?
+picard: False
+
+# Other
+threads: 63
+
