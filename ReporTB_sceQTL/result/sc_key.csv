@@ -1,0 +1,33 @@
+annotation,anno_long,anno_short
+CD4 TCM,CD4 CM: T-cell CD4+ central memory,CD4 CM
+B,B: B cell,B
+act CD4,CD4 act: T-cell CD4+ activated,CD4 act
+Mono MTB300-reactive,"CD14 Mono-1: Monocyte CD14+, cluster 1",CD14 Mono-1
+CD8 Naive,CD8 naive: T-cell CD8+ naive,CD8 naive
+CD8 TCM,CD8 CM: T-cell CD8+ central memory,CD8 CM
+CD4 TEM,CD4 EM: T-cell CD4+ effector memory,CD4 EM
+NK,"NK-3: Natural killer cell, cluster 3",NK-3
+CD4 Naive,"CD4 naive-4: T-cell CD4+ naive, cluster 4",CD4 naive-4
+CD14 Mono,"CD14 Mono-3: Monocyte CD14+, cluster 3",CD14 Mono-3
+CD8 TEM,CD8 EM: T-cell CD8+ effector memory,CD8 EM
+MAIT,MAIT: T-cell mucosal-associated invariant,MAIT
+CD4N-2,"CD4 naive-2: T-cell CD4+ naive, cluster 2",CD4 naive-2
+gdT,gdT: T-cell gamma delta,gdT
+CD4N-1,"CD4 naive-1: T-cell CD4+ naive, cluster 1",CD4 naive-1
+CD16 Mono,CD16 Mono: Monocyte CD16+,CD16 Mono
+Int Mono,"CD14 Mono int: Monocyte CD14+, intermediate",CD14 Mono int
+CD4 Treg,CD4 Treg: T-cell CD4+ regulatory,CD4 Treg
+pDC,"pDC: Dendritic cell, plasmacytoid",pDC
+cDC,"cDC: Dendritic cell, conventional",cDC
+NK-1,"NK-1: Natural killer cell, cluster 1",NK-1
+Plasmablast,Plasmablast,Plasmablast
+HSP CD4,CD4 HSP: T-cell CD4+ heat shock protein+,CD4 HSP
+CD4M-3,"CD4 mem-3: T-cell CD4+ memory, cluster 3",CD4 mem-3
+CD4M-1,"CD4 mem-1: T-cell CD4+ memory, cluster 1",CD4 mem-1
+NK-2,"NK-2: Natural killer cell, cluster 2",NK-2
+ISG CD4,CD4 ISG: T-cell CD4+ IFN stimulated genes+,CD4 ISG
+Mono GRV-reactive,"CD14 Mono-2: Monocyte CD14+, cluster 2",CD14 Mono-2
+HSPC,HSPC: Hematopoietic stem & progenitor cell,HSPC
+CD4M-2,"CD4 mem-2: T-cell CD4+ memory, cluster 2",CD4 mem-2
+Platelet,Platelet,Platelet
+CD4N-3,"CD4 naive-3: T-cell CD4+ naive, cluster 3",CD4 naive-3
